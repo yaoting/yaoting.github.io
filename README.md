@@ -1,2 +1,1 @@
-# yaoting.github.io
-my personal blog
+# rosebabyqueen.github.io
